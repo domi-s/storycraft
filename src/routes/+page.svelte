@@ -94,7 +94,7 @@
                     <div class="flex flex-wrap gap-4 my-4 justify-center">
                         <label class="flex items-center gap-2">
                             <input type="radio" name="genre" value="any" bind:group={genre}>
-                            Any genre
+                            Any Genre
                         </label>
                         <label class="flex items-center gap-2">
                             <input type="radio" name="genre" value="fantasy" bind:group={genre}>
